@@ -1,0 +1,13 @@
+2023-04-24 15:56:07,761 13500 INFO ? odoo: Odoo version 16.0+e-20230219 
+2023-04-24 15:56:07,761 13500 INFO ? odoo: Using configuration file at C:\Users\ADMIN\Documents\NHCL\server\odoo.conf 
+2023-04-24 15:56:07,762 13500 INFO ? odoo: addons paths: ['C:\\Users\\ADMIN\\Documents\\NHCL\\server\\odoo\\addons', 'c:\\users\\admin\\documents\\nhcl\\sessions\\addons\\16.0', 'c:\\users\\admin\\documents\\nhcl\\server\\odoo\\addons'] 
+2023-04-24 15:56:07,762 13500 INFO ? odoo: database: openpg@localhost:5432 
+2023-04-24 15:56:09,776 13500 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe 
+2023-04-24 15:56:14,023 13500 INFO ? odoo.service.server: Initiating shutdown 
+2023-04-24 15:56:14,023 13500 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2023-04-24 15:57:18,028 13740 INFO ? odoo: Odoo version 16.0+e-20230219 
+2023-04-24 15:57:18,029 13740 INFO ? odoo: Using configuration file at C:\Users\ADMIN\Documents\NHCL\server\odoo.conf 
+2023-04-24 15:57:18,029 13740 INFO ? odoo: addons paths: ['C:\\Users\\ADMIN\\Documents\\NHCL\\server\\odoo\\addons', 'c:\\users\\admin\\documents\\nhcl\\sessions\\addons\\16.0', 'c:\\users\\admin\\documents\\nhcl\\server\\odoo\\addons'] 
+2023-04-24 15:57:18,029 13740 INFO ? odoo: database: openpg@localhost:5432 
+2023-04-24 15:57:19,863 13740 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe 
+2023-04-24 15:57:23,024 13740 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-0GN6CJA:8069 
